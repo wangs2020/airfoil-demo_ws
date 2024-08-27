@@ -28,4 +28,7 @@ python demo_cvae.py
 
 # Start Editing using Diffusion
 python demo_diffusion.py
+
+# Start Editing by control Keypoint using CVAE
+python demo_cvae_kp_ctrl.py
 ```
